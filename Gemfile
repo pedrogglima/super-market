@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
+ruby '3.0.3'
 
 # TODO: separate gems by env. (test, development, production)
 gem 'activesupport', '~> 7.0', '>= 7.0.2.2'
