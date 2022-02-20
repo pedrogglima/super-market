@@ -1,0 +1,5 @@
+id,name,code,price,quantity,discount_value,discount_type
+1,Green Tea,GR1,3.11,100
+2,Strawberries,SR1,5.00,100,0.5,V
+3,Coffee,CF1,11.23,100,33.33,P
+4,Potatos,PR1,2.25,0
