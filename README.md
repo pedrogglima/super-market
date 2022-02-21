@@ -14,7 +14,7 @@ Run the file **playground.rb** to execute the project. You can change values for
 
 Output:
 
-                                                "Basket: GR1,SR1,GR1,GR1,CF1"
+    "Basket: GR1,SR1,GR1,GR1,CF1"
     "Total price expected: £22.45"
     "-----------------------------"
     "Total: £22.45"
@@ -44,3 +44,9 @@ Output:
     "Total: £30.57"
     "Total before discount: £41.80"
     "Total discount: £11.23"
+
+### Tests
+
+Run on console
+
+`rspec`
